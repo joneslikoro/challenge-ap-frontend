@@ -1,65 +1,70 @@
-# 🖥️ IUM Analyst Programmer Challenge – Frontend
+# Getting Started with Create React App
 
-Welcome to the **Frontend Repository** for the Analyst Programmer Technical Challenge. This is where you will build the user interface for the **Student Registration Dashboard**.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## 👤 Candidate Details
+## Available Scripts
 
-Please provide your personal details **exactly as they appear on your CV**:
+In the project directory, you can run:
 
-- **Full Name**: _e.g., Jane Doe_  
-- **Email Address**: _e.g., jane.doe@example.com_  
-- **Phone Number**: _e.g., +264 81 234 5678_  
-- **Other Information (Optional)**: _LinkedIn, portfolio, GitHub profile, etc._
+### `npm start`
 
-⚠️ **Submissions without valid personal details will be disqualified.**
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
----
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## 🔀 Branching Instructions
+### `npm test`
 
-Create a **new branch** from the `main` branch using the format below: challenge-CANDIDATE-FULL-NAME
-> Example:  
-> `challenge-Jane-Doe`
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Commit your work regularly, and submit a **pull request (PR)** from your branch to `main` once complete.
+### `npm run build`
 
----
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## 🎯 Dashboard Requirements
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-Using **React**, build a responsive frontend that displays:
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-- ✅ Total Registrations (Widget)
-- ✅ Bar Chart: Registrations by Programme
-- ✅ Line/Bar Chart: Registrations by Academic Year
-- ✅ Table: Top 10 Secondary Schools
-- ✅ Optional: Filters (e.g., academic year, programme)
+### `npm run eject`
 
-You may use any of the following libraries or tools:
-- Axios / Fetch API
-- Recharts / Chart.js
-- Tailwind / Bootstrap / CSS Modules
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
----
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-## 📄 Submission Checklist
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-- [ ] Dashboard UI complete and functional
-- [ ] React components organized cleanly
-- [ ] API integration tested with working backend
-- [ ] `README.md` fully filled with your details
-- [ ] Branch and PR named correctly
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
----
+## Learn More
 
-## 🔒 Rules Reminder
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-- Bring and use your own laptop and internet connection
-- Work must be completed independently, on-site
-- No external help
-- You may use AI Assistants such as ChatGPT
+To learn React, check out the [React documentation](https://reactjs.org/).
 
----
+### Code Splitting
 
-**Best of luck!**  
-*Centre for Digital Initiatives – IUM*
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
